@@ -1,0 +1,16 @@
+dagster
+dagster-postgres
+python-dotenv
+pandas
+numpy
+requests
+SQLAlchemy
+psycopg2-binary
+pymongo
+matplotlib
+seaborn
+streamlit
+
+
+
+005100003578377614102

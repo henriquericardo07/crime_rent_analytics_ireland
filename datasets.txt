@@ -1,0 +1,7 @@
+Datasets
+
+https://data.gov.ie/en_GB/dataset/cjq06-recorded-crime-incidents
+
+https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/RIA02/JSON-stat/1.0/en
+
+
